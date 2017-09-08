@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EducationalApp</string>
+    <string name="submit_button">Submit\nAnswers</string>
+    <string name="question_one">What parts android oficial documentation include?</string>
+    <string name="question_two">What method we can use to identifire View?</string>
+    <string name="question_three">Few views we can unit in...</string>
+    <string name="question_four">In what file we must declare activity?</string>
+    <string name="question_five">What we can set to the Object to do smth with app?</string>
+    <string name="design_var">Design</string>
+    <string name="development_var">Development</string>
+    <string name="distribution_var">Distribution</string>
+    <string name="incorrect_var">View</string>
+    <string name="onCreate_method">onCreate</string>
+    <string name="findViewById_method">findViewById</string>
+    <string name="startActivity_method">startActivity</string>
+    <string name="interface_var">Interface</string>
+    <string name="parent_class_var">Parent class</string>
+    <string name="listener_var">Listener</string>
+    <string name="activity_file">Activity</string>
+    <string name="layout_file">Layout</string>
+    <string name="manifest_file">Manifest</string>
+
+
+</resources>

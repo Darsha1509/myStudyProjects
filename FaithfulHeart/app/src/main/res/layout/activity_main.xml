@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/image"
+        android:scaleType="centerCrop"
+        android:id="@+id/image"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image"
+        android:background="#90A4AE"
+        android:fontFamily="sans-serif-light"
+        android:text="FAITHFUL HEART"
+        android:textColor="#ffffff"
+        android:textSize="35dp" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/images"
+        android:layout_below="@id/name"
+        android:layout_marginTop="10dp"
+        android:id="@+id/locate_image"
+        android:layout_marginLeft="30dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/locate_image"
+        android:layout_below="@id/name"
+        android:text="15/2010 30, Folush st., Grodno"
+        android:textColor="#000000"
+        android:background="#90A4AE"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:layout_alignRight="@id/name"
+        android:id="@+id/adress"
+        android:layout_alignBottom="@id/locate_image"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/phone"
+        android:layout_below="@id/locate_image"
+        android:layout_alignRight="@id/locate_image"
+        android:layout_marginTop="10dp"
+        android:id="@+id/phone_image"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MTS: 8-(33)-321-18-12"
+        android:layout_below="@id/adress"
+        android:layout_toRightOf="@id/phone_image"
+        android:layout_marginTop="8dp"
+        android:textSize="20sp"
+        android:layout_alignBottom="@id/phone_image"
+        android:layout_marginLeft="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="        We are a non-profit, non-governmental organization. The main goal is to reduce the number of homeless animals by sterilizing them, creating shelters and finding new owners for stray animals.
+        Give a piece of good to the needy.Our team will be very happy to help you."
+        android:layout_below="@id/phone_image"
+        android:layout_marginTop="5dp"
+        android:textSize="17sp"
+        android:textColor="#000000"
+        android:paddingLeft="5dp"
+        android:gravity="left"
+        android:layout_alignLeft="@id/phone_image"
+        android:id="@+id/text"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/clock"
+        android:layout_below="@id/text"
+        android:layout_alignLeft="@id/phone_image"
+        android:layout_marginTop="20dp"
+        android:id="@+id/clock_image"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mon, Tue, Wen, Thu, Fri: 9.00-18.00"
+        android:id="@+id/hours_work"
+        android:layout_below="@id/text"
+        android:layout_toRightOf="@id/clock_image"
+        android:layout_marginTop="5dp"
+        android:background="#90A4AE"
+        android:textColor="#ffffff"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sat, Sun: 10.00-15.00"
+        android:layout_below="@id/hours_work"
+        android:layout_alignLeft="@id/hours_work"
+        android:background="#90A4AE"
+        android:textColor="#ffffff"
+        android:layout_alignRight="@id/hours_work"
+        android:textSize="16sp"/>
+
+</RelativeLayout>

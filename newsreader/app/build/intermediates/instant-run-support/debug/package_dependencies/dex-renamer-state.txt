@@ -1,0 +1,4 @@
+#Wed Jul 19 11:51:25 MSK 2017
+base.0=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_63889ebd84462024da14178a88a8f1341895cd54
+renamed.0=classes.dex
+file.0=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_63889ebd84462024da14178a88a8f1341895cd54\\classes.dex

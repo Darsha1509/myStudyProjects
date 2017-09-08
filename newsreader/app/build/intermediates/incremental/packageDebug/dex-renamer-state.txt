@@ -1,0 +1,7 @@
+#Wed Jul 19 11:51:26 MSK 2017
+base.0=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_57ec6f775915ce4052f3815895f3650b8db84257
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1a779383ee8c275c8aac246f14d42cb45cf163c5\\classes.dex
+base.1=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1a779383ee8c275c8aac246f14d42cb45cf163c5
+file.0=D\:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_57ec6f775915ce4052f3815895f3650b8db84257\\classes.dex

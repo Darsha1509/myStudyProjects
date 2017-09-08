@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\UdacityLessons\Begginer\newsreader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\UdacityLessons\Begginer\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a779383ee8c275c8aac246f14d42cb45cf163c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\UdacityLessons\Begginer\newsreader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3a35f1131d1dc984202da88d44b5e887caf72132">
+        <dex dex="D:\Android\UdacityLessons\Begginer\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_57ec6f775915ce4052f3815895f3650b8db84257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dasha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\UdacityLessons\Begginer\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_63889ebd84462024da14178a88a8f1341895cd54\classes.dex" />
+    </item>
+
+</items>

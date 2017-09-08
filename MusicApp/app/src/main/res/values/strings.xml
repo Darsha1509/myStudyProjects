@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="changeVolume">Change Volume</string>
+    <string name="middle">Middle of the song</string>
+</resources>

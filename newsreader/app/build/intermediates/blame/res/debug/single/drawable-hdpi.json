@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_normal.9.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_normal.9.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pressed.9.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_selected.9.png",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_selected.9.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\headline_item.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\headline_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onepane_with_bar.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\onepane_with_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twopanes.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\twopanes.xml"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onepane.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\onepane.xml"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twopanes_narrow.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\twopanes_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_list_item.xml",
+        "source": "D:\\Android\\UdacityLessons\\Begginer\\newsreader\\app\\src\\main\\res\\layout\\actionbar_list_item.xml"
+    }
+]
