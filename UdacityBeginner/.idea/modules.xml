@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UdacityBeginner.iml" filepath="$PROJECT_DIR$/UdacityBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookies/cookies.iml" filepath="$PROJECT_DIR$/cookies/cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cortcounter/cortcounter.iml" filepath="$PROJECT_DIR$/cortcounter/cortcounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justjava/justjava.iml" filepath="$PROJECT_DIR$/justjava/justjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceset2/practiceset2.iml" filepath="$PROJECT_DIR$/practiceset2/practiceset2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resourcesmy/resourcesmy.iml" filepath="$PROJECT_DIR$/resourcesmy/resourcesmy.iml" />
+    </modules>
+  </component>
+</project>

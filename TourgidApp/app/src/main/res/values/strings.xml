@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TourgidApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="restaurants">Restaurants</string>
+
+    <string name="night_clubs">Night Clubs</string>
+
+    <string name="bars">Bars</string>
+
+    <string name="coffees">Coffees</string>
+</resources>

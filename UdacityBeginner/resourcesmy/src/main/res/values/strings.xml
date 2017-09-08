@@ -1,0 +1,27 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">resourcesMy</string>
+    <string  name="simple_string">Простая строка</string>
+    <string  name="quoted_string">"Строка в &amp; кавычках"</string>
+    <string  name="double_quoted_string">\"Строка в двойных кавычках\"</string>
+    <string  name="java_format_string">Привет %2$s. Здравствуй %1$s</string>
+    <string  name="tagged_string"><b>Рыжик</b> - <i>мой любимый кот</i></string>
+    <string name="my_message">&lt;b>Жирный кот&lt;/b></string>
+
+    <string name="long_message">
+<![CDATA[
+<html>
+<body>
+<h1>Котик: {{birthDate}}</h1>
+<p>Здесь текст о котиках:</p>
+<p>{{message}}</p>
+<p>Если хотите поговорить об этом, то обращайтесь к <b>Котовскому</b>.</p>
+</body>
+</html>
+]]>
+</string>
+    <string name="title">Ваше имя: <xliff:g id="name" example="Александр" >%2$s</xliff:g>,
+        Имя кота: <xliff:g id="cat_name" example="Рыжик" >%1$s</xliff:g>
+    </string>
+    <string name="red_pill_label">lala</string>
+    <string name="blue_pill_label">lala</string>
+</resources>
