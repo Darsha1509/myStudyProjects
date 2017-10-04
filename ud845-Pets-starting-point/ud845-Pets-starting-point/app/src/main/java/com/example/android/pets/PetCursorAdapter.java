@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import com.example.android.pets.data.PetContract;
 
+import static java.security.AccessController.getContext;
+
 /**
  * Created by Dasha on 02.10.2017.
  */
@@ -34,6 +36,10 @@ public class PetCursorAdapter extends CursorAdapter {
         String summary = cursor.getString(cursor.getColumnIndexOrThrow(PetContract.PetEntry.COLUMN_PET_BREED));
 
         tvName.setText(name);
-        tvSummary.setText(summary);
+        if (summary.isEmpty()) {
+            tvSummary.setText(context.getString(R.string.unknown_breed));
+        } else {
+            tvSummary.setText(summary);
+        }
     }
 }
